@@ -1,0 +1,45 @@
+@media screen and (max-width:940px){
+	
+	.item h4{
+		font-size:18px;
+	}
+	.item h2{
+		font-size:60px;
+	}
+	
+	.item h3{
+		font-size:20px;
+	}
+	.about-icon{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.service-img{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.element-item  {
+		width: 50%;
+	}
+	.pricing{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.cont-content{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.contact-content{
+		max-width:292px;
+		margin:30px auto;
+	}
+
+	
+	
+}
+
+@media screen and (max-width:480px){
+	.element-item  {
+		width: 100%;
+	}
+}
